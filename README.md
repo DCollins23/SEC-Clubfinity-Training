@@ -1,1 +1,1 @@
-SEC_TRAINING
+Software Engineering Club Training
